@@ -1,7 +1,7 @@
 import java.util.*;
 class TestList
 {
-	public static void makeList()
+	public static void tList()
 	{
 		List <Integer> arr = new ArrayList<Integer>();
 		List <Float> linklist = new LinkedList<Float>();
@@ -35,6 +35,6 @@ class TestList
 	}
 	public static void main(String [] args)
 	{
-		makeList();
+		tList();
 	}
 }
