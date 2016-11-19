@@ -9,12 +9,9 @@ class TestperfomanceList
 		for(int i=0;i<50000;i++)
 		{
 			arr.add(i+1);
-		}
-		
-		for(int i=0;i<50000;i++)
-		{
 			linklist.add((float)(i));
 		}
+		
 		print(arr,linklist);
 	}
 	
