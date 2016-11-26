@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-class GUIAssignment
+class GuiAssignment
 {
 	public static void main(String[] args)
 	{
